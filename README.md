@@ -31,3 +31,49 @@ la _primera_ palabra y la _segunda_
 ![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 [![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+
+> Esto es una cita.
+
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
+- Fruta
+  - Manzana
+  - Pera
+- Verdura
+  - Lechuga
+  - Tomate
+
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+1. Backend
+   1. Python
+   2. Java
+2. Frontend
+   1. HTML
+   2. CSS
+
+Este texto contiene `print("Hola Mundo")` en línea.
+
+```python
+def saludar():
+    print("Hola Mundo")
+
+saludar()
+```
+
+| Nombre | Edad | Ciudad |
+|--------|-----:|---------|
+| Jaime | 30 | Madrid |
+| Ana | 27 | Sevilla |
+| Luis | 35 | Valencia |
+
+<details>
+<summary>Haz clic para desplegar</summary>
+
+Este contenido esta escrito en HTML dentro de Markdown.
+
+</details>
